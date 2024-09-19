@@ -72,7 +72,7 @@ minikube service list -n argocd
 minikube service argocd-server -n argocd
 ```
 
-This command will open the ArgoCD UI in your default web browser.
+Access the ArgoCd UI from via the port you get by running this command on your local machine.
 
 ### 10. Create an Application in ArgoCD
 
